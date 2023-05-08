@@ -23,3 +23,41 @@ body{
 #botonera ul li a:hover{
     border: solid 1px black;
 }
+.about{
+    height: 450px;
+    padding-top: 10px;
+}
+#pri_tex{
+    height: 400px;
+}
+#pri_tex p {
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+    line-height: 1.8;
+}
+#ul_tex p {
+    font-size: 18px;
+    text-align: justify;
+    padding: 20px;
+    line-height: 1.7;
+}
+.caja_p{
+    background-color: #a0a0a0;
+}
+#caja_pic{
+    height: 400px;
+}
+#ul_tex{
+    height: 400px;
+}
+#circulo{
+    width: 350px;
+    height: 350px;
+    border-radius: 175px;
+}
+#circulo img{
+    box-sizing: border-box;
+    width: 350px;
+    border-radius: 175px;
+}

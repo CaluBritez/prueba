@@ -61,3 +61,25 @@ body{
     width: 350px;
     border-radius: 175px;
 }
+.poderes {
+    height: 500px;
+}
+.languages{
+    height:250px;
+}
+.subtitulo{
+    width: 100%;
+}
+.subtitulo h4{
+    background-color: red;
+    text-align: center;
+}
+.poder{
+    width: 100px;
+    height: 100px;
+}
+.poder img{
+    width: 100%;
+}
+.caja_poderes{
+}

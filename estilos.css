@@ -62,13 +62,14 @@ body {
   border-radius: 175px;
 }
 .poderes {
-  height: 500px;
+  padding-bottom: 20px;
 }
 .languages {
   height: 180px;
   background-color: #a0a0a0;
   display: flex;
   flex-direction: column;
+  margin-top: 20px;
 }
 .subtitulo {
   width: 100%;
@@ -84,16 +85,14 @@ body {
 .poder img {
   width: 98px;
 }
-/*
-.caja_poderes{
-    display: flex;
-    flex-direction: column;
-}
-*/
 .img_container {
   display: flex;
   justify-content: space-around;
 }
 .fondo_blanco {
   background-color: white;
+}
+#saberes {
+  display: flex;
+  justify-content: space-around;
 }

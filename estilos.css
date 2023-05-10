@@ -1,13 +1,20 @@
 body {
   background-color: #bebebe;
 }
+.cabecera{
+  background-color: #404040;
+}
 #copy_letra {
   font-size: 13px;
   padding-top: 30px;
   text-align: end;
+  color: #a0a0a0;
 }
 #caja_redes {
   padding-top: 8px;
+}
+#caja_redes a i{
+    color: #a0a0a0;
 }
 #caja_redes a i:hover {
   color: #686868;
@@ -21,15 +28,12 @@ body {
   background-color: #a0a0a0;
 }
 #botonera ul li a:hover {
-  border: solid 1px black;
+  border: solid 1px #bebebe;
 }
 .about {
-  height: 450px;
   padding-top: 10px;
 }
-#pri_tex {
-  height: 400px;
-}
+/*  TEXTO     */
 #pri_tex p {
   font-size: 20px;
   text-align: justify;
@@ -44,9 +48,6 @@ body {
 }
 .caja_p {
   background-color: #a0a0a0;
-}
-#caja_pic {
-  height: 400px;
 }
 #ul_tex {
   height: 400px;
@@ -97,5 +98,45 @@ body {
   justify-content: space-around;
 }
 .experience {
-  height: 500px;
+  background-color: #404040;
+}
+.bolognino {
+  padding-bottom: 15px;
+  background-color: #404040;
+}
+.logo_bolo{
+  height: 200px;
+  background-color: white;
+}
+.texto_bolo p {
+  font-size: 15px;
+  text-align: justify;
+  padding: 15px;
+  line-height: 1.8;
+}
+.texto_bolo h4{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.texto_bolo h5{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.texto_bolo h6{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.img_cen{
+  text-align: center;
+}
+.wd_sa {
+  padding-bottom: 15px;
+  background-color: #404040;
+}
+.logo_wd{
+  height: 200px;
+  background-color: white;
+}
+footer{
+  background-color: #404040;
 }

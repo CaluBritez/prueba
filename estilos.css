@@ -49,9 +49,7 @@ body {
 .caja_p {
   background-color: #a0a0a0;
 }
-#ul_tex {
-  height: 400px;
-}
+
 #circulo {
   width: 350px;
   height: 350px;
@@ -66,30 +64,34 @@ body {
   padding-bottom: 20px;
 }
 .languages {
-  height: 180px;
   background-color: #a0a0a0;
   display: flex;
   flex-direction: column;
   margin-top: 20px;
+  padding-bottom: 15px;
+}
+.img_container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 .subtitulo {
   width: 100%;
 }
 .subtitulo h4 {
   text-align: center;
+  
 }
 .poder {
   width: 100px;
   height: 100px;
   padding: 0;
+  margin-top: 10px;
 }
 .poder img {
   width: 98px;
 }
-.img_container {
-  display: flex;
-  justify-content: space-around;
-}
+
 .fondo_blanco {
   background-color: white;
 }
